@@ -1,4 +1,5 @@
 import math
+# reference: https://www.ird.gov.hk/eng/ese/st_comp_2018_19_budget/stcfrm.htm
 
 def cal_MPF(income):
     if income < 7100*12:
